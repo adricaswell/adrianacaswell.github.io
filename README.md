@@ -14,9 +14,9 @@ My formal education and work experience have helped me develop skills in GIS (Ar
 
 **Student Employee** @ Geographic and Cartographic Research Centre (_February 2024 - present_)
 
-**Wildlife and Landscape Science Student Analyst** @ Environment and Climate Change Canada (_January 2024 - April 2024_)
+**Student Analyst** @ Environment and Climate Change Canada (_January 2024 - April 2024_)
 
-**Physical Data and Information Officer** @ Canadian Hydrographic Service (_May 2023 - December 2023_)
+**Physical Data & Information Officer** @ Canadian Hydrographic Service (_May 2023 - December 2023_)
 
 **Research Assistant** @ Carleton University Water and Ice Research Lab (_May 2021 - May 2022_)
 
