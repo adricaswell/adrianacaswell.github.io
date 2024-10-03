@@ -10,53 +10,47 @@ My formal education and work experience have helped me develop skills in GIS (Ar
 
 
 # Work experience
-**Field Assistant** June 2024 - present
-Biometeorology Research Group
-Ottawa, Canada
+**Field Assistant** @ Carleton University Biometeorology Research Group (_June 2024 - present_)
 
-**Student Employee** February 2024 - present
-Geographic and Cartographic Research Centre
-Ottawa, Canada
+**Student Employee** @ Geographic and Cartographic Research Centre (_February 2024 - present_)
 
-**Student Analyst** January 2024 - April 2024
-Environment and Climate Change Canada - Wildlife and Landscape Science
-Ottawa, Canada
+**Wildlife and Landscape Science Student Analyst** @ Environment and Climate Change Canada (_January 2024 - April 2024_)
 
-**Physical Data and Information Officer** May 2023 - December 2023
-Fisheries and Oceans Canada - Canadian Hydrographic Service
-Ottawa, Canada
+**Physical Data and Information Officer** @ Canadian Hydrographic Service (_May 2023 - December 2023_)
 
-**Research Assistant** May 2021 - May 2022
-Water and Ice Research Lab
-Ottawa, Canada
-
+**Research Assistant** @ Carleton University Water and Ice Research Lab (_May 2021 - May 2022_)
 
 # Education 
-**Bachelor of Science Honours Physical Geography** September 2020 - present
-Carleton University, Ottawa, Canada
-Minors in Geomatics and Economics
+**Bachelor of Science Honours Physical Geography** _September 2020 - present_
+- Carleton University (Ottawa, Canada)
+- Minors in Geomatics and Economics
 
-**International Baccalaureate** August 2018 - May 2020
-UWC Robert Bosch College, Freiburg, Germany
+
+**International Baccalaureate** _August 2018 - May 2020_
+- UWC Robert Bosch College (Freiburg, Germany)
 
 
 # Projects
 
 ## New Ottawa Hospital
+This project brought together Canadian census data, road networks, and hospital point data to explore how existing hospitals serve Ottawa's population. This allowed me to identify which areas are relatively underserved. Using location allocation I evaluated potential sites for a new hospital to determine the ideal location for a new hospital to maximize the population within 5 kilometers of a hospital. 
+
 ![New Ottawa Hospital Map](/work-examples/map-hospital.jpg)
 
 
 ## Northwest Passage Development
+![Northwest Passage Development Map Rationale](/work-examples/rationale-shipping.jpg)
 ![Northwest Passage Development Map](/work-examples/map-shipping.jpg)
 
 
 ## Everest: The First Ascent 
+This map was created to visually represent Hillary and Norgay’s expedition to a general audience interested in the story of Mount Everest’s first ascent. To appeal to the audience, I wanted the map to remain simple and aesthetic so the map includes only the route, camps, and the summit overlaying imagery of the area. Additionally, there is supporting text to capture the audience’s attention and provide some additional context to help tell the story. 
+
 ![Everest Map](/work-examples/map-everest.jpg)
 
 
 ## Declining Sea Ice
+This map consists of a depiction of the change in sea ice extent between 1979 and 2019. The intended delivery method is an Instagram post, as such, the map is simple so that it can be easily read on a phone and communicate the point quickly and clearly as people scroll through their feed. The map was created for news readers who are generally educated and knowledgeable about current events such as climate change. This map will be used to inform this audience about the loss of sea ice in the Arctic showing how large areas of sea ice have been lost. 
+
 ![Sea Ice Map](/work-examples/map-seaice.jpg)
 
-
-## Wolverine Habitat Suitability
-![Wolverine Habitat Suitability Map](/work-examples/map-wolverine.jpg)
