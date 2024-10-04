@@ -68,6 +68,6 @@ This map consists of a depiction of the change in sea ice extent between 1979 an
 
 
 # Writing Samples
-<a href="adricaswell.github.io/work-examples/writing-elnino.pdf" target="_blank">Climate change making El Niño events more frequent and more intense</a>
+<a href="https://adricaswell.github.io/work-examples/writing-elnino.pdf" target="_blank">Climate change making El Niño events more frequent and more intense</a>
 
-<a href="adricaswell.github.io/work-examples/writing-geoengineering.pdf" target="_blank">Geoengineering: A Solution to Sea Level Rise</a>
+<a href="https://adricaswell.github.io/work-examples/writing-geoengineering.pdf" target="_blank">Geoengineering: A Solution to Sea Level Rise</a>
