@@ -1,6 +1,6 @@
 <img src='/profile.png'
-     align = left
-     width = 400/>
+     align = right
+     width = 300/>
 
 Growing up in Nova Scotia, Canada, I have always been surrounded and fascinated by nature and the environment. Now, I am exploring this academically as Physical Geography student in my final year at Carleton University in Ottawa, Ontario. I am eager to learn about the environment around me and how people interact with it. I believe it is important to approach problems from multiple perspectives, which is why I have decided to additionally minor in economics and geomatics. 
 
@@ -68,6 +68,6 @@ This map consists of a depiction of the change in sea ice extent between 1979 an
 
 
 # Writing Samples
-<a href="username.github.io/work-examples/writing-elnino.pdf" target="_blank">Climate change making El Niño events more frequent and more intense</a>
+<a href="adricaswell.github.io/work-examples/writing-elnino.pdf" target="_blank">Climate change making El Niño events more frequent and more intense</a>
 
-<a href="username.github.io/work-examples/writing-geoengineering.pdf" target="_blank">Geoengineering: A Solution to Sea Level Rise</a>
+<a href="adricaswell.github.io/work-examples/writing-geoengineering.pdf" target="_blank">Geoengineering: A Solution to Sea Level Rise</a>
